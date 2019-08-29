@@ -1,3 +1,5 @@
+Api criada com NodeJS no curso starter Node da Rocketseat
+
 1. Configurar o package.json
 > npm init -y
 
