@@ -53,8 +53,8 @@ Api criada com NodeJS no curso starter Node da Rocketseat
 13. Instalação do mongoose. 
 > npm install mongoose
 
-    13.1. O mongoose é um ORM.
-    13.2. O ORM (Object Relational Mapping) encapsula a lógica do banco de dados e permite que a gente acesse a lógica do banco com código JS, ou seja, ele permite que usemos Javascript para realizar um CRUD, por exemplo, sem precisar usar a linguagem SQL (insert into, select * from, update, etc.)
+    13.1. O mongoose é um ODM.
+    13.2. O ODM encapsula a lógica do banco de dados e permite que a gente acesse a lógica do banco com código JS, ou seja, ele permite que usemos Javascript para realizar um CRUD, por exemplo, sem precisar usar a linguagem SQL (insert into, select * from, update, etc.)
 
 14. Criar o Model (MVC). O model é basicamente uma representação de uma tabela do banco de dados.
 
